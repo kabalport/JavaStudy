@@ -24,4 +24,9 @@ public class ChatThread extends Thread{
         this.list = list;
         this.list.add(this);
     }
+
+    @Override
+    public void run() {
+
+    }
 }
