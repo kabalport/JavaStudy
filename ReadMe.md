@@ -21,3 +21,6 @@
 - ip 확인하기
 ### net.VerySimpleWebServer
 - 서버 응답받아보는 단순한 웺서버
+### webServer2.WebServer
+- 웹 서버가 어떻게 클라이언트의 연결을 수용하고 요청을 처리하는지에 대한 기본적인 이해하기 위한 코드
+
